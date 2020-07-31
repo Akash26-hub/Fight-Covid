@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FIGHT COVID</string>
+    <string name="fight_covid">FIGHT COVID</string>
+    <string name="todo">TODO</string>
+    <string name="start_updates">START LOCATION UPDATES</string>
+    <string name="stop_updates">STOP LOCATION UPDATES</string>
+    <string name="get_last_location">GET LAST LOCATION</string>
+</resources>
